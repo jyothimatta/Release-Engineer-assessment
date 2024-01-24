@@ -35,8 +35,8 @@ def justify_paragraph(paragraph, page_width):
     return justified_lines
 
 # Sample input values
-paragraph = "This is a sample text but a complicated problem to be solved, so we are adding more text to see that it actually works."
-page_width = 20
+# paragraph = "This is a sample text but a complicated problem to be solved, so we are adding more text to see that it actually works."
+# page_width = 20
 
 # Getting justified lines
 justified_lines = justify_paragraph(paragraph, page_width)
